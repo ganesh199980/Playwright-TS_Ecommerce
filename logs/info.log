@@ -1,0 +1,42 @@
+2024-09-23T12:07:31.951Z [[34minfo[39m]: [34mTest Case Started : Book Category IT books[39m
+2024-09-23T12:10:38.191Z [[34minfo[39m]: [34mTest Case Started : Book Category IT books[39m
+2024-09-23T12:10:47.352Z [[34minfo[39m]: [34m[32mTest Case Passed : Book Category IT books[0m[39m
+2024-09-23T12:11:12.736Z [[34minfo[39m]: [34mTest Case Started : Book Category IT books[39m
+2024-09-23T12:11:50.469Z [[34minfo[39m]: [34mTest Case Started : Book Category IT books[39m
+2024-09-23T12:11:57.981Z [[34minfo[39m]: [34m[32mTest Case Passed : Book Category IT books[0m[39m
+2024-09-23T12:12:22.908Z [[34minfo[39m]: [34mTest Case Started : Book Category IT books[39m
+2024-09-23T12:14:26.710Z [[34minfo[39m]: [34mTest Case Started : Book Category IT books[39m
+2024-09-23T12:15:35.998Z [[34minfo[39m]: [34mTest Case Started : Book Category IT books[39m
+2024-09-23T12:15:52.901Z [[34minfo[39m]: [34m[32mTest Case Passed : Book Category IT books[0m[39m
+2024-09-23T12:17:26.306Z [[34minfo[39m]: [34mTest Case Started : Book Category IT books[39m
+2024-09-23T12:17:36.829Z [[34minfo[39m]: [34m[32mTest Case Passed : Book Category IT books[0m[39m
+2024-09-23T12:47:02.100Z [[34minfo[39m]: [34mTest Case Started : Book Category IT books[39m
+2024-09-23T12:52:06.903Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T12:52:18.957Z [[34minfo[39m]: [34m[32mTest Case Passed : verify search history[0m[39m
+2024-09-23T12:53:32.141Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T12:54:57.437Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:00:47.687Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:01:11.861Z [[34minfo[39m]: [34m[32mTest Case Passed : verify search history[0m[39m
+2024-09-23T13:02:48.920Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:05:24.161Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:05:45.689Z [[34minfo[39m]: [34m[32mTest Case Passed : verify search history[0m[39m
+2024-09-23T13:12:19.205Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:13:20.410Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:13:41.810Z [[34minfo[39m]: [34m[32mTest Case Passed : verify search history[0m[39m
+2024-09-23T13:28:27.168Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:31:02.017Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:34:37.898Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:36:40.584Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:37:03.997Z [[34minfo[39m]: [34m[32mTest Case Passed : verify search history[0m[39m
+2024-09-23T13:39:07.737Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:39:56.878Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:41:23.438Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:42:59.417Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:44:32.843Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:47:35.741Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:51:29.526Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:53:01.269Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:53:57.126Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:56:04.273Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:57:16.912Z [[34minfo[39m]: [34mTest Case Started : verify search history[39m
+2024-09-23T13:58:02.512Z [[34minfo[39m]: [34m[32mTest Case Passed : verify search history[0m[39m
